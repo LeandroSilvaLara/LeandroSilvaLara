@@ -45,8 +45,22 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   <a href = "https://www.linkedin.com/in/leandro-lara-209445a9/"><img src="https://user-images.githubusercontent.com/49800137/121689543-1a01cf80-ca9b-11eb-9bab-16688efaa8fb.png" target="_blank"></a>
   <a href="leandrodasilvalara@yahoo.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/49800137/121689544-1a01cf80-ca9b-11eb-86d3-8107443716b6.png" target="_blank"></a> 
  
- ![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
  
- ![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
+ ### Analytics ⚙️
+  
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LeandroSilvaLara" />
+  <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
+</p>  
+  
+<p align="left">
+<a href="https://github.com/LeandroSilvaLara">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LeandroSilvaLara&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSilvaLara&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
  
 </div>
