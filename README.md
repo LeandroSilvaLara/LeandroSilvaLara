@@ -5,7 +5,7 @@ Sou formado em Técnico em Mecânica Centro Federal de Educação Tecnológica C
 Sou Desenvolvedor com perfil Full Stack, atualmente estou fazendo estágio na Globosat, na equipe de Grafismo, com pessoal sportv, multishow,Bis,gloob e gnt. 
 Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP,Java, Python,Django,Ruby,MongoDB e MYSQL, Neste ano estudando parte de android e Ios. 
 
-![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
+
  
 
 <p>
@@ -55,10 +55,7 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p>  
   
-
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
  
 </div>
 
-![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
 
