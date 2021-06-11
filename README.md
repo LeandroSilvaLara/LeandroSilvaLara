@@ -54,13 +54,12 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   <img height="180em" src="https://user-images.githubusercontent.com/22433243/121538215-faa36d80-c9da-11eb-9dce-0def2d07ff62.gif" />
 </p>  
   
-<p align="left">
-<a href="https://github.com/LeandroSilvaLara">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=LeandroSilvaLara&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSilvaLara&layout=compact&langs_count=8"/>
-</a>
-</p>
 
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
  
 </div>
+
+#### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
+
+#### 👉   _[STEP by STEP to create a similar README profile](https://bit.ly/devtoritgithubcreateprofile)_
+
