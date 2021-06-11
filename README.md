@@ -12,3 +12,6 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
 
 
 <a href="https://github.com/LeandroSilvaLara">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSilvaLara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSilvaLara&layout=compact&langs_count=16&theme=dracula"/>
+</div>
