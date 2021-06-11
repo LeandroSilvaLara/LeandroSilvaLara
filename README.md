@@ -25,5 +25,5 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Rafa-yoda" src="https://user-images.githubusercontent.com/49800137/121621147-f8282e80-ca41-11eb-8ec4-050708107443.gif">
 </div>
