@@ -45,7 +45,6 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   <a href = "https://www.linkedin.com/in/leandro-lara-209445a9/"><img src="https://user-images.githubusercontent.com/49800137/121689543-1a01cf80-ca9b-11eb-9bab-16688efaa8fb.png" target="_blank"></a>
   <a href="leandrodasilvalara@yahoo.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/49800137/121689544-1a01cf80-ca9b-11eb-86d3-8107443716b6.png" target="_blank"></a> 
  
-![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
  
  ### Analytics ⚙️
   
@@ -58,6 +57,8 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
 <img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
  
 </div>
+
+![Snake animation](https://github.com/LeandroSilvaLara/LeandroSilvaLara/blob/output/github-contribution-grid-snake.svg)
 
 #### 👉   _[Statistics](https://github.com/anuraghazra/github-readme-stats) ➕  [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) ➕  [Snake animation](https://github.com/Platane/snk) ➕  [Metrics](https://github.com/marketplace/actions/metrics-embed)_
 
