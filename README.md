@@ -26,6 +26,6 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
   </li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSilvaLara)](https://github.com/LeandroSilvaLara/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=LeandroSilvaLara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/LeandroSilvaLara/github-readme-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=LeandroSilvaLara) 
