@@ -36,3 +36,11 @@ Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCR
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-yoda" height="150" width="200" src="https://user-images.githubusercontent.com/49800137/121621147-f8282e80-ca41-11eb-8ec4-050708107443.gif">
 </div>
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/leandroshinigami" target="_blank"><img src="https://user-images.githubusercontent.com/49800137/121689540-18d0a280-ca9b-11eb-9b3f-97e9686ec8ca.png" target="_blank"></a>
+  <a href="leandroshinigami@gmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/49800137/121689542-19693900-ca9b-11eb-9115-62aa4422eb5f.png" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/leandro-lara-209445a9/"><img src="https://user-images.githubusercontent.com/49800137/121689543-1a01cf80-ca9b-11eb-9bab-16688efaa8fb.png" target="_blank"></a>
+  <a href="leandrodasilvalara@yahoo.com.br" target="_blank"><img src="https://user-images.githubusercontent.com/49800137/121689544-1a01cf80-ca9b-11eb-86d3-8107443716b6.png" target="_blank"></a> 
