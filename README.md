@@ -1,9 +1,8 @@
 ### Olá pessoal, sejam bem vindos ao meu GitHub 👋
 
-Meu nome é Leandro Lara, e sou Estudante BCMT - Análise de Suporte à Decisão Universidade Federal do Rio de Janeiro (UFRJ), tenho formação em Técnico em Informática para internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) Campus São João de Meriti
-Sou formado em Técnico em Mecânica Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,(CEFET) Campus Maracanã.
-Sou Desenvolvedor com perfil Full Stack, atualmente estou fazendo estágio na Globosat, na equipe de Grafismo, com pessoal sportv, multishow,Bis,gloob e gnt. 
-Sou amante de boas práticas de desenvolvimento. Trabalho com HTML, CSS, JAVASCRIPT, jQuery, NodeJS, PHP,Java, Python,Django,Ruby,MongoDB e MYSQL, Neste ano estudando parte de android e Ios. 
+Meu nome é Leandro Lara e sou estudante de Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Possuo formação técnica em Informática para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ), no Campus São João de Meriti, e em Mecânica pelo Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET), no Campus Maracanã. Além disso, sou formado pelo Senai - Resende, com um Curso Técnico em Desenvolvimento de Sistemas.
+
+Tenho experiência como Desenvolvedor Android e sou apaixonado por novas tecnologias, sempre buscando estar atualizado. Tenho três anos de experiência em desenvolvimento Android, utilizando as linguagens Java e Kotlin. Atualmente, estou trabalhando na empresa Fóton Informática S.A como Desenvolvedor Mobile Pleno, utilizando as tecnologias Android, Kotlin e Java. Sou reconhecido pela minha criatividade e gosto de aplicá-la nos projetos em que trabalho.
 
 
  
